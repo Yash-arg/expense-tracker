@@ -1,0 +1,12 @@
+numpy
+pandas
+polars
+scipy
+matplotlib
+seaborn
+flask
+fastapi
+requests
+beautifulsoup4
+scrapy
+selenium

@@ -1,0 +1,44 @@
+[
+    {
+        "amount": 250,
+        "category": "food",
+        "description": "Lunch",
+        "date": "2026-09-28"
+    },
+    {
+        "amount": 500,
+        "category": "travel",
+        "description": "Cab to office",
+        "date": "2026-09-30"
+    },
+    {
+        "amount": 120,
+        "category": "food",
+        "description": "Coffee",
+        "date": "2026-10-01"
+    },
+    {
+        "amount": 1000,
+        "category": "entertainment",
+        "description": "Movie tickets",
+        "date": "2026-10-02"
+    },
+    {
+        "amount": 1500,
+        "category": "shopping",
+        "description": "Shoes",
+        "date": "2026-10-02"
+    },
+    {
+        "amount": 80,
+        "category": "travel",
+        "description": "Metro card",
+        "date": "2026-10-03"
+    },
+    {
+        "amount": 340,
+        "category": "food",
+        "description": "Groceries",
+        "date": "2026-10-04"
+    }
+]
