@@ -40,5 +40,17 @@
         "category": "food",
         "description": "Groceries",
         "date": "2026-10-04"
+    },
+    {
+        "amount": 250.0,
+        "category": "food",
+        "description": "burger",
+        "date": "2026-03-22"
+    },
+    {
+        "amount": 2000.0,
+        "category": "entertainment",
+        "description": "party",
+        "date": "2025-07-22"
     }
 ]
