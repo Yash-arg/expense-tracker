@@ -52,5 +52,11 @@
         "category": "entertainment",
         "description": "party",
         "date": "2025-07-22"
+    },
+    {
+        "amount": 1000.0,
+        "category": "travel",
+        "description": "cab to office",
+        "date": "2024-05-27"
     }
 ]
